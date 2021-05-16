@@ -1,2 +1,2 @@
 // Write your solution here!
-appends.push("Odie")
+const append = ["Milo", "Otis", "Garfield"]; 
